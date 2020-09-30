@@ -1,0 +1,55 @@
+body{
+    background-color: #1BCA9B
+    ;
+}
+.man{
+    
+    border-style: solid;
+    border-color: ivory;
+    background-color:ivory;
+    padding: 30px;
+    
+}
+#nav{
+    font-size: 30px;
+}
+.port{
+    padding: 5px;
+    border-style: solid;
+    background-color: aliceblue;
+    border-color: blueviolet;
+    border-width: 20px;
+    
+}
+.port{
+    float:left;
+}
+.name{
+    font-size: 50px;
+    border-style: solid;
+    background-color: aliceblue;
+    border-color: blueviolet;
+    border-width: 20px;
+}
+.id{
+    font-size: 75px;
+    margin-top: ;
+}
+.nav{
+    font-size: 50px;
+}
+.vb{
+    font-size: 30px;
+}
+.portfolio{
+    background-color: aqua;
+border-style: solid;
+border-color:slateblue;
+
+
+}
+.div
+{
+    background-color: azure;
+    padding: 40px;
+}
